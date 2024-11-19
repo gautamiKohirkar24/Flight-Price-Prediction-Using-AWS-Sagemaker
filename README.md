@@ -1,4 +1,4 @@
-# **Flight Price Prediction using AWS SageMaker**
+# **Flight Price Prediction Using AWS SageMaker**
 
 This project involves building a machine learning model to predict flight prices based on various features such as departure and arrival cities, dates, and airline data. The model is developed using **AWS SageMaker** to leverage scalable cloud-based machine learning infrastructure.
 
